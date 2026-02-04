@@ -183,7 +183,7 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 
 ---
 
-**Last Updated**: February 2026
+**Last Updated**: June 2025
 **Status**: Active Development
 **Version**: 1.0
 
